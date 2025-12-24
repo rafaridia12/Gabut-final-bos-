@@ -1,2 +1,1 @@
-# Gabut-final-bos-
-Ga ada apa apa
+ini projek yg saya buat hanya cocok untuk menjawab pertanyaan pytagoras aja.
